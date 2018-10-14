@@ -1,0 +1,42 @@
+body{
+	background-color: black;
+	color: white; 
+	    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+}
+
+.entire-post{
+	margin-top: 2rem;
+}
+
+.entire-side{
+	margin-top: 2rem;	
+}
+
+.user-img{
+	height: 100%;
+	width: 100%;
+}
+
+.img-holder{
+	padding: 0;
+}
+
+.post-content{
+	position: relative;
+}
+
+.post-footer{
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+
+.drop-menu{
+    position: absolute;  
+    min-width: 30vmin;
+    max-width: 49vmax;
+}
+
+.drop-message{
+    overflow: hidden;
+}
